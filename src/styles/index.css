@@ -1,0 +1,26 @@
+.slider-product{
+    display:flex;
+    max-width: 1300px;
+    max-height: 250px;
+}
+.link{
+    color:black;
+    text-decoration: none;
+}
+.slider-product img{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0;
+}
+.product{
+    border: 0.5px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+}
+.product p{
+    margin-top: 10px;
+}

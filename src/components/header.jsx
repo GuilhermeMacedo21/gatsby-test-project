@@ -5,22 +5,38 @@ import { Link } from "gatsby"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      margin: `0 auto`,
+      margin: `0 auto 3em 0`,
       padding: `var(--space-4) var(--size-gutter)`,
       display: `flex`,
       alignItems: `center`,
       justifyContent: `space-between`,
+      backgroundColor:'lightgrey'
     }}
   >
-    <Link
-      to="/"
-      style={{
-        fontSize: `var(--font-sm)`,
-        textDecoration: `none`,
-      }}
-    >
-      {siteTitle}
-    </Link>
+    <div>
+      <Link
+        to="/"
+        style={{
+          fontSize: `var(--font-sm)`,
+          textDecoration: `none`,
+          color:'black',
+          marginLeft:'7em',
+          marginRight:'20px'
+        }}
+      >
+        Página Inicial
+      </Link>
+      <Link
+        to="/page-2"
+        style={{
+          fontSize: `var(--font-sm)`,
+          textDecoration: `none`,
+          color:'blue'
+        }}
+      >
+        Página 2
+      </Link>
+    </div>
     <img
       alt="Gatsby logo"
       height={20}

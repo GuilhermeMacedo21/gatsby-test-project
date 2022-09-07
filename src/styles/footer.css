@@ -1,0 +1,11 @@
+footer{
+    margin-top: 10em;
+    font-size: var(--font-sm);
+    max-width:1920px;
+    display:flex;
+    align-content:center;
+    flex-direction:column;
+    flex-wrap:wrap;
+    background-color:floralwhite;
+    padding:30px;
+}

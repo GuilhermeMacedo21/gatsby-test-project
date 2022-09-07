@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "name":"Sofa",
+            "slug":"sofa",
+            "price":1200,
+            "imageUrl":"https://a-static.mlcdn.com.br/280x210/sofa-retratil-e-reclinavel-cama-inbox-compact-150m-tecido-suede-velusoft-cinza/camainbox2/6358/7e5de1db586e92de95068a912eede57e.jpg",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum imperdiet purus ut convallis. Nam sit amet malesuada lacus. Aliquam volutpat enim et elit posuere, in lobortis sem bibendum. Morbi egestas eu dolor sed consectetur. In risus sapien, molestie vel aliquet et, scelerisque sed magna. Praesent euismod orci congue faucibus consequat. Maecenas dignissim blandit turpis iaculis lacinia."
+        },
+        {
+            "name":"Guarda-Roupa",
+            "slug":"guarda-roupa",
+            "price":1300,
+            "imageUrl":"https://a-static.mlcdn.com.br/280x210/guarda-roupa-casal-espelho-6-portas-2-gavetas-real-atualle/multiloja/24530/f87bbec27a36b8cb027dcd5f6e086594.jpg",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum imperdiet purus ut convallis. Nam sit amet malesuada lacus. Aliquam volutpat enim et elit posuere, in lobortis sem bibendum. Morbi egestas eu dolor sed consectetur. In risus sapien, molestie vel aliquet et, scelerisque sed magna. Praesent euismod orci congue faucibus consequat. Maecenas dignissim blandit turpis iaculis lacinia."
+        },
+        {
+            "name":"Celular 1",
+            "slug":"celular-1",
+            "price":1000,
+            "imageUrl":"https://a-static.mlcdn.com.br/280x210/smartphone-motorola-edge-30-256gb-grafite-5g-octa-core-8gb-ram-65-cam-tripla-selfie-32mp/magazineluiza/235180600/dce1403134f9f60328da7ac5fa749769.jpg",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum imperdiet purus ut convallis. Nam sit amet malesuada lacus. Aliquam volutpat enim et elit posuere, in lobortis sem bibendum. Morbi egestas eu dolor sed consectetur. In risus sapien, molestie vel aliquet et, scelerisque sed magna. Praesent euismod orci congue faucibus consequat. Maecenas dignissim blandit turpis iaculis lacinia."
+        },
+        {
+            "name":"Cadeira",
+            "slug":"cadeira",
+            "price":2300,
+            "imageUrl":"https://a-static.mlcdn.com.br/280x210/cadeira-gamer-techni-sport-reclinavel-giratoria-preta-e-azul-tsf71/magazineluiza/233393000/0d3741b0313be0d6bdcd9b0ee7bb4e49.jpg",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum imperdiet purus ut convallis. Nam sit amet malesuada lacus. Aliquam volutpat enim et elit posuere, in lobortis sem bibendum. Morbi egestas eu dolor sed consectetur. In risus sapien, molestie vel aliquet et, scelerisque sed magna. Praesent euismod orci congue faucibus consequat. Maecenas dignissim blandit turpis iaculis lacinia."
+        },
+        {
+            "name":"Celular 2",
+            "slug":"celular-2",
+            "price":3000,
+            "imageUrl":"https://a-static.mlcdn.com.br/280x210/smartphone-samsung-galaxy-a32-128gb-violeta-4g-4gb-ram-tela-64-cam-quadrupla-selfie-20mp/magazineluiza/155624100/1595344320db4b74ffa559fcb01a992c.jpg",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum imperdiet purus ut convallis. Nam sit amet malesuada lacus. Aliquam volutpat enim et elit posuere, in lobortis sem bibendum. Morbi egestas eu dolor sed consectetur. In risus sapien, molestie vel aliquet et, scelerisque sed magna. Praesent euismod orci congue faucibus consequat. Maecenas dignissim blandit turpis iaculis lacinia."
+        },
+        {
+            "name":"Tábua",
+            "slug":"tabua",
+            "price":2500,
+            "imageUrl":"https://a-static.mlcdn.com.br/280x210/mesa-de-parede-dobravel-freijo-je/lojasmg/3mg1edmafreijo/dde9a7979d0064ac0c33615ec0928157.jpg",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum imperdiet purus ut convallis. Nam sit amet malesuada lacus. Aliquam volutpat enim et elit posuere, in lobortis sem bibendum. Morbi egestas eu dolor sed consectetur. In risus sapien, molestie vel aliquet et, scelerisque sed magna. Praesent euismod orci congue faucibus consequat. Maecenas dignissim blandit turpis iaculis lacinia."
+        }
+    ]
+}
