@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react"
-import Layout from "../components/layout"
+import Layout from "../Layout"
 import Seo from "../components/seo"
 import { Link } from "gatsby"
 import '../styles/index.css'
